@@ -1,0 +1,3 @@
+- this is @qnxd
+- the q1
+- making a life
